@@ -1,0 +1,43 @@
+    .background_2{
+    width: 1450px;
+    height: 50px;
+    border: solid 2px rgb(255, 201, 233);
+    background-color: #fff3fe;
+    }
+p {
+    color: rgb(0, 0, 0);
+    font-size: 14px;
+  }
+ 
+  h1 {
+    color: rgb(255, 164, 190);
+    font-size: 32px;
+    text-align: center;
+  }
+
+  h2 {
+    color: rgb(255, 203, 218);
+    font-size: 32px;
+    text-align: center;
+  }
+ 
+  li {
+    color: rgb(255, 0, 0);
+    font-size: 24px;
+    text-align: left;
+  }
+ 
+  p {
+    letter-spacing: 0.01em;
+    word-spacing: 1px;
+    line-height: 1.5;
+    text-indent: 1px;
+  }
+ 
+  li {
+    letter-spacing: 0.01em;
+    word-spacing: 1px;
+    line-height: 1.5;
+    text-indent: 1px;
+  }
+
